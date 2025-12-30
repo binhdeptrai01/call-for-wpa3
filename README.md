@@ -4,7 +4,7 @@ Call for WPA3 - what's wrong with WPA2 security and how to fix it
 Some time ago, I started learning how modern Wi-Fi networks are built. As a security enthusiast, I was particularly interested in how their safety mechanisms can be broken and strengthened. In this post, I'm going to list problems that can't easily be solved yet and what their solutions could be if we created a new wireless network security protocol. NOTE: this post is not meant for tech-savvy people only - in every paragraph I'm going to try to explain the problem in layman's terms.
 
 What's WPA2?
-===
+=== 
 
 WPA2 is the latest network protocol that is supposed to secure your network connection from (possibly malicious) interference. It describes how your Wi-Fi access point should authenticate you in order to guard who can and who cannot enter your network. It was announced in 2004 in order to fix previous version of the protocol which became so insecure that it was pretty much the equivalent of having no protection at all.
 
